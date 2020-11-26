@@ -1,8 +1,5 @@
 <h1>
-    <a href="https://lectrum.io" target="_blank" rel="noopener noreferrer">
-        <img src="./public/logo-woodsmoke.svg" alt="Lectrum favicon" width="25" />
-    </a>
-	React и Redux
+	React & Redux
 </h1>
 
 Forecast widget - shows current weather and forecast for next 7 days
